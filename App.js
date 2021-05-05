@@ -33,8 +33,8 @@ const getStore = slices => {
   const reducers = Object.fromEntries(slices.map(([name, slice]) => [name, slice.reducer]));
 
   const appState = {
-    name: "privacy_mod_test_1_26188Identifier",
-    url: "https://privacy_mod_test_1_26188Identifier.botics.co",
+    name: "demoIdentifier",
+    url: "https://demoIdentifier.botics.co",
     version: "1.0.0"
   }
 

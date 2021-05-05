@@ -131,7 +131,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.privacy_mod_test_1_26188"
+        applicationId "com.demo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
